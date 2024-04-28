@@ -159,6 +159,29 @@ aside img {
 	padding-bottom: 1em;
 }
 
+/* Styling the table */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+table, th, td {
+  border: 1px solid #800000;
+}
+
+th, td {
+  padding: 8px;
+}
+
+/* Styling the heading above the table */
+.caption-heading {
+  color: #800000;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
 /* the styles for the footer */
 footer {
 	background-color: #931420;
